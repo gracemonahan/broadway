@@ -7,16 +7,34 @@ h1 {
   font-size: 70px;
   font-weight: bold;
 }
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-weight: bold;
+  font-size: 23px;
+}
 .hello {
   color: white;
   background: url("../images/the-flatiron-building.png");
 }
-.process {
-  color: blue;
-}
+
 p.designed {
   background: url("../images/the-flatiron-building.png");
   color: white;
   font-weight: bold;
   font-size: 23px;
+}
+.bottom {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+#copyright {
+  font-size: 11px;
+}
+a {
+  color: white;
+  font-size: 18px;
 }
